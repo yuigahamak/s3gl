@@ -99,7 +99,7 @@ Scene.prototype.draw = function(){
 	}
 	//fc++;
 	//$('#info').html(fc++);
-	$('#count').html(this.countPolygon);
+	//$('#count').html(this.countPolygon);
 
 };
 Scene.prototype.forward = function(){
